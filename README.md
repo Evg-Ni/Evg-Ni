@@ -36,7 +36,7 @@
 <p>
   <a href="https://t.me/evgevgevge"><img src="images/icon-tg.svg" alt="Telegram"></a>
     <img src="images/icon-whitespace-5px.svg"/>
-  <a href="mailto:beagle-elgaeb@ya.ru"><img src="images/icon-mail.svg" alt="Mail"></a>
+  <a href="mailto:beagle-dog@mail.ru"><img src="images/icon-mail.svg" alt="Mail"></a>
     <img src="images/icon-whitespace-5px.svg"/>
   <a href="https://www.instagram.com/evg._.su/"><img src="images/icon-inst.svg" alt="Instagram"></a>
 </p>
