@@ -20,7 +20,9 @@
   <img src="images/icon-whitespace-5px.svg"/>
   <a href="https://ru.bem.info/"><img src="images/icon-bem.svg" alt="БЭМ"></a>
   <img src="images/icon-whitespace-5px.svg"/>
-  <a href="https://developer.mozilla.org/ru/docs/Web/JavaScript"><img src="images/icon-js.svg" alt="JS"></a>
+  <a href="https://www.typescriptlang.org/"><img src="images/icon-ts.svg" alt="TypeScript"></a>
+  <img src="images/icon-whitespace-5px.svg"/>
+  <a href="https://developer.mozilla.org/ru/docs/Web/JavaScript"><img src="images/icon-js.svg" alt="JavaScript"></a>
   <img src="images/icon-whitespace-5px.svg"/>
   <a href="https://npmjs.com/"><img src="images/icon-npm.svg" alt="NPM"></a>
   <img src="images/icon-whitespace-5px.svg"/>
